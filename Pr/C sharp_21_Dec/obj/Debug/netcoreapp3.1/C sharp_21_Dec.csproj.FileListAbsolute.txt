@@ -1,0 +1,12 @@
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\bin\Debug\netcoreapp3.1\C sharp_21_Dec.exe
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\bin\Debug\netcoreapp3.1\C sharp_21_Dec.deps.json
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\bin\Debug\netcoreapp3.1\C sharp_21_Dec.runtimeconfig.json
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\bin\Debug\netcoreapp3.1\C sharp_21_Dec.runtimeconfig.dev.json
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\bin\Debug\netcoreapp3.1\C sharp_21_Dec.dll
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\bin\Debug\netcoreapp3.1\C sharp_21_Dec.pdb
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\obj\Debug\netcoreapp3.1\C sharp_21_Dec.AssemblyInfoInputs.cache
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\obj\Debug\netcoreapp3.1\C sharp_21_Dec.AssemblyInfo.cs
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\obj\Debug\netcoreapp3.1\C sharp_21_Dec.csproj.CoreCompileInputs.cache
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\obj\Debug\netcoreapp3.1\C sharp_21_Dec.dll
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\obj\Debug\netcoreapp3.1\C sharp_21_Dec.pdb
+C:\Users\Nijat Mammadli\source\repos\C sharp_21_Dec\C sharp_21_Dec\obj\Debug\netcoreapp3.1\C sharp_21_Dec.genruntimeconfig.cache
